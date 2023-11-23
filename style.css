@@ -19,9 +19,9 @@ Author URI: https://verdigado.com
   .theme--contrast .tags-links a,
   .theme--contrast a.event-card article .event-archive-meta {
     color: #1c3c11; }
-  
 
-  
+
+
   .roofline {
     font-weight: 500;
     color: #46962b;
@@ -41,7 +41,7 @@ Author URI: https://verdigado.com
       font-family: ArvoGruen; }
     .theme--verdigado .roofline-single {
       font-family: Sarabun; }
-  
+
   h1, .h1, .h1,
   .has-huge-font-size {
     font-size: 36px;
@@ -55,8 +55,8 @@ Author URI: https://verdigado.com
     .theme--verdigado h1, .theme--verdigado .h1, .theme--verdigado .h1, .theme--verdigado
     .has-huge-font-size {
       font-family: Sarabun; }
-  
-  
+
+
   h2,
   .h2, .h2,
   .has-large-font-size {
@@ -71,8 +71,8 @@ Author URI: https://verdigado.com
     .theme--verdigado h2, .theme--verdigado .h2, .theme--verdigado .h2, .theme--verdigado
     .has-large-font-size {
       font-family: Sarabun; }
-  
-  
+
+
   h3,
   .h3, .h3,
   .has-medium-font-size {
@@ -88,8 +88,8 @@ Author URI: https://verdigado.com
     .theme--verdigado h3, .theme--verdigado .h3, .theme--verdigado .h3, .theme--verdigado
     .has-medium-font-size {
       font-family: PTSans; }
-  
-  
+
+
   h4,
   .h4, .h4 {
     font-weight: bold;
@@ -100,8 +100,8 @@ Author URI: https://verdigado.com
       font-family: PTSans; }
     .theme--verdigado h4, .theme--verdigado .h4, .theme--verdigado .h4 {
       font-family: PTSans; }
-  
-  
+
+
   h5,
   .h5, .h5 {
     font-weight: bold;
@@ -112,8 +112,8 @@ Author URI: https://verdigado.com
       font-family: PTSans; }
     .theme--verdigado h5, .theme--verdigado .h5, .theme--verdigado .h5 {
       font-family: PTSans; }
-  
-  
+
+
   h6,
   .h6, .h6 {
     font-weight: bold;
@@ -124,10 +124,10 @@ Author URI: https://verdigado.com
       font-family: Arvo; }
     .theme--verdigado h6, .theme--verdigado .h6, .theme--verdigado .h6 {
       font-family: Sarabun; }
-  
+
   .border-radius {
     border-radius: 10px; }
-  
+
   .no-link {
     color: inherit;
     text-decoration: none; }
@@ -136,10 +136,10 @@ Author URI: https://verdigado.com
     .no-link a {
       color: inherit;
       text-decoration: none; }
-  
+
   .has-shadow {
     box-shadow: 0 1px 20px rgba(0, 0, 0, 0.04); }
-  
+
   .navbar-brand {
     opacity: 0;
     width: 50px;
@@ -149,16 +149,16 @@ Author URI: https://verdigado.com
         margin-left: 0; } }
     .navbar-brand img {
       height: 33px; }
-  
+
   .nav-item a {
     color: #000; }
-  
+
   .topmenu {
     background: #224634; }
-  
+
   body.search, body.home, body.page, body.archive, body.blog {
     background-color: #EFF2ED; }
-  
+
   .bloginfo {
     background-image: url("assets/img/background.jpg");
     background-size: cover;
@@ -199,7 +199,7 @@ Author URI: https://verdigado.com
           margin-right: 0.25rem; }
         .bloginfo img {
           max-width: 60px; } }
-   
+
   .header-personal #mainmenu > .current-menu-item {
     background-color: #46962b; }
     .header-personal #mainmenu > .current-menu-item a.nav-link {
@@ -212,14 +212,14 @@ Author URI: https://verdigado.com
     background: none; }
     .header-personal .social-media-profile i {
       color: #201D1B; }
-  
+
   #navbar-sticky-detector.header-personal {
     height: 1px;
     background: white; }
-  
+
   body.admin-bar .navbar-main.stuck {
     top: 32px; }
-  
+
   .widget {
     margin-bottom: 5rem;
     color: #EFF2ED; }
@@ -296,42 +296,42 @@ Author URI: https://verdigado.com
     .widget_archive select {
       border: 1px solid #AFAFAF;
       padding: 0.2rem; }
-  
+
   @font-face {
     font-family: Arvo;
     src: url("assets/fonts/Arvo-Regular_201.woff") format("woff");
     font-display: swap; }
-  
+
   @font-face {
     font-family: ArvoGruen;
     src: url("assets/fonts/Arvo_Gruen_2015_10.woff") format("woff");
     font-display: swap; }
-  
+
   @font-face {
     font-family: BereitBold;
     font-style: normal;
     font-weight: 400;
     src: url("assets/fonts/bereitbold.woff2") format("woff2");
     font-display: swap; }
-  
+
   @font-face {
     font-family: Sarabun;
     src: url("assets/fonts/sarabun-v12-latin-regular.woff") format("woff");
     font-display: swap; }
-  
-  
+
+
   .arvo {
     font-family: Arvo !important;
     font-weight: 500; }
-  
+
   .arvogruen {
     font-family: ArvoGruen !important;
     font-weight: 500; }
-  
+
   .bereit {
     font-family: BereitBold !important;
     font-weight: 500; }
-  
+
     .social-media-sharers {
       display: flex;
       align-items: center; }
@@ -352,13 +352,13 @@ Author URI: https://verdigado.com
         background-color: #46962b; }
       .social-media-sharers .sharer:last-child {
         margin-right: 3rem; }
-  
+
   article.post h2 a, article.post .h2 a {
     color: #201D1B; }
-  
+
   article.post .entry-header:hover h2 a, article.post .entry-header:hover .h2 a {
     color: #3C8025; }
-  
+
   a.continue-reading,
   .continue-reading {
     padding-top: 10px;
@@ -372,7 +372,7 @@ Author URI: https://verdigado.com
     .continue-reading:hover {
       color: #46962b; }
 
-  
+
   button.filter,
   a.eventlist {
     font-weight: bold;
@@ -408,17 +408,17 @@ Author URI: https://verdigado.com
       button.filter.filter-active:hover,
       a.eventlist.filter-active:hover {
         border-bottom-color: #46962b; }
-  
+
   iframe {
     border-radius: 10px; }
-  
+
   .sunflower-has-background-dim > * {
     z-index: 30; }
-  
+
   .related-posts .entry-content a {
     text-decoration: none;
     color: #201D1B; }
-  
+
   .social-media-profile {
     width: 40px;
     height: 40px;
@@ -432,7 +432,7 @@ Author URI: https://verdigado.com
     text-decoration: none; }
     .social-media-profile i {
       color: white; }
-  
+
   .site-footer {
     background-color: #072415;
     color: white;
@@ -447,8 +447,8 @@ Author URI: https://verdigado.com
       color: white; }
     .site-footer hr {
       opacity: 0.6; }
-  
-  
+
+
   a.event-card {
     color: #201D1B !important;
     text-decoration: none; }
@@ -483,7 +483,7 @@ Author URI: https://verdigado.com
       text-decoration: none; }
     a.event-card:hover {
       text-decoration: none; }
-  
+
   .sunflower-post-navigation div a {
     background: #EFF2ED;
     display: block;
@@ -499,7 +499,7 @@ Author URI: https://verdigado.com
       text-transform: uppercase;
       font-weight: bold;
       font-style: italic; }
-  
+
   .navbar {
     padding: 0; }
     .navbar-main {
@@ -523,7 +523,7 @@ Author URI: https://verdigado.com
         color: #3C8025; }
     .navbar li {
       margin-right: 10px; }
-  
+
   .dropdown-menu {
     border-radius: 0;
     padding: 0;
@@ -574,7 +574,7 @@ Author URI: https://verdigado.com
             color: #46962b;
             background: none; }
 
-  
+
   #mainmenu > li {
     text-transform: uppercase; }
     #mainmenu > li.menu-item-has-children {
@@ -596,21 +596,21 @@ Author URI: https://verdigado.com
       #mainmenu > li.menu-item-has-children .dropdown-menu {
         flex: 100%;
         top: 100%; }
-  
-  
+
+
   .archive article {
     border-radius: 10px;
     overflow: hidden; }
-  
+
   .archive-loop .entry-content a {
     color: #201D1B; }
-  
+
   .tags-links a {
     margin-right: 3px; }
     .tags-links a:before {
       content: '#';
       color: #201D1B; }
-  
+
   .metabox {
     background: #46962b;
     right: 0px;
@@ -638,109 +638,109 @@ Author URI: https://verdigado.com
       font-weight: bold; }
     .metabox a {
       color: #fff; }
-  
+
   .bg-lightgreen {
     background-color: #EFF2ED; }
-  
+
   .bg-darkgreen {
     background-color: #0A321E; }
-  
+
   .has-green-500-color {
     color: #46962b !important; }
-  
+
   .has-green-500-background-color {
     background-color: #46962b !important; }
-  
+
   .has-green-500-hover-background-color:hover {
     background-color: #46962b !important; }
-  
+
   .has-green-color {
     color: #46962b !important; }
-  
+
   .has-green-background-color {
     background-color: #46962b !important; }
-  
+
   .has-green-hover-background-color:hover {
     background-color: #46962b !important; }
-  
+
   .has-green-800-color {
     color: #224634 !important; }
-  
+
   .has-green-800-background-color {
     background-color: #224634 !important; }
-  
+
   .has-green-800-hover-background-color:hover {
     background-color: #224634 !important; }
-  
+
   .has-magenta-color {
     color: #e6007e !important; }
-  
+
   .has-magenta-background-color {
     background-color: #e6007e !important; }
-  
+
   .has-magenta-hover-background-color:hover {
     background-color: #e6007e !important; }
-  
+
   .has-magenta-600-color {
     color: #BF0069 !important; }
-  
+
   .has-magenta-600-background-color {
     background-color: #BF0069 !important; }
-  
+
   .has-magenta-600-hover-background-color:hover {
     background-color: #BF0069 !important; }
-  
+
   .has-green-550-color {
     color: #3C8025 !important; }
-  
+
   .has-green-550-background-color {
     background-color: #3C8025 !important; }
-  
+
   .has-green-550-hover-background-color:hover {
     background-color: #3C8025 !important; }
-  
+
   .has-yellow-500-color {
     color: #ffd500 !important; }
-  
+
   .has-yellow-500-background-color {
     background-color: #ffd500 !important; }
-  
+
   .has-yellow-500-hover-background-color:hover {
     background-color: #ffd500 !important; }
-  
+
   .has-blue-500-color {
     color: #4cb4e7 !important; }
-  
+
   .has-blue-500-background-color {
     background-color: #4cb4e7 !important; }
-  
+
   .has-blue-500-hover-background-color:hover {
     background-color: #4cb4e7 !important; }
-  
+
   .has-blue-600-color {
     color: #4097c2 !important; }
-  
+
   .has-blue-600-background-color {
     background-color: #4097c2 !important; }
-  
+
   .has-blue-600-hover-background-color:hover {
     background-color: #4097c2 !important; }
-  
+
   .has-gray-100-color {
     color: #EFF2ED !important; }
-  
+
   .has-gray-100-background-color {
     background-color: #EFF2ED !important; }
-  
+
   .has-gray-100-hover-background-color:hover {
     background-color: #EFF2ED !important; }
-  
+
   .display-single > .entry-header {
     text-align: center;
     background: #EFF2ED;
     padding: 100px 0 85px 0; }
-  
-  
+
+
   .comment .children {
     border-left: 2px solid #46962b;
     margin-bottom: 65px;
@@ -748,31 +748,31 @@ Author URI: https://verdigado.com
     @media (min-width: 768px) {
       .comment .children {
         margin-left: 1.5em; } }
-  
+
   .comment-reply-title {
     text-align: center; }
-  
+
   .latest-posts article {
     border-radius: 10px;
     margin-bottom: 10px; }
     .latest-posts article .post-thumbnail img {
       border-radius: 10px 10px 0 0; }
-  
+
   .latest-posts .entry-content a {
     color: #201D1B;
     text-decoration: none; }
-  
+
   .wp-block-sunflower-accordion:last-of-type {
     margin-bottom: 50px; }
-  
+
   .wp-block-column .wp-block-cover {
     overflow: hidden;
     border-radius: 10px; }
-  
+
   a.wp-block-file__button {
     color: #fff !important;
     background-color: #46962b; }
-  
+
   .wp-block-button__link {
     background-color: #46962b;
     color: white !important;
@@ -788,10 +788,10 @@ Author URI: https://verdigado.com
     .wp-block-button__link:hover {
       background-color: #BF0069 !important;
       color: white !important; }
-  
+
   .wp-block-gallery .blocks-gallery-item img {
     border-radius: 10px; }
-  
+
   .wp-block-gallery .blocks-gallery-item figcaption {
     position: relative;
     width: unset;
@@ -803,7 +803,7 @@ Author URI: https://verdigado.com
     margin-top: 0.5em;
     padding: 0px;
     flex: None; }
-  
+
   .wp-block-quote {
     padding: 2em; }
     .wp-block-quote p {
@@ -818,7 +818,7 @@ Author URI: https://verdigado.com
     .wp-block-quote cite {
       font-style: normal;
       font-size: 15px; }
-  
+
   .wp-block-image {
     margin-bottom: 0;
     border-radius: 10px; }
@@ -833,7 +833,7 @@ Author URI: https://verdigado.com
       background: none;
       margin-right: 0.3em;
       margin-top: 0.5em; }
-  
+
   .c-accordion__title {
     font-size: 25px;
     font-family: PTSans !important; }
@@ -844,4 +844,3 @@ Author URI: https://verdigado.com
       padding-left: 1em;
       font-weight: bold;
       position: relative; }
-  
